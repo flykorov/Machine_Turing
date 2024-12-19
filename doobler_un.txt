@@ -1,0 +1,29 @@
+e1
+0 1
+arret 0
+arret d
+arret e2
+
+e2
+0 1
+0 1
+d d
+e3 e2
+
+e3
+0 1
+1 1
+g d
+e4 e3
+
+e4
+0 1
+0 1
+g g
+e5 e4
+
+e5
+0 1
+1 1
+d g
+e1 e5
